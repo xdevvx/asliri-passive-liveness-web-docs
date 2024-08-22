@@ -1,6 +1,3 @@
----
-noteID: a511da0b-ecaa-4ddd-892a-8f24943ddb2b
----
 # ASLIRI PASSIVE LIVENESS WEB
 Passive Liveness by ASLIRI for your web apps. You can verification your client.
 
@@ -66,15 +63,22 @@ http://verification-url.id?req_id=hyjxPh5RXuds5Y4F3FMQ%2FBDYFnF8%2F4qvhlog6MzhAn
 *Please note: the **callback** must be **UrlEncoded** as example*
 
 #### 3. Verification Process runs
-![[./pics/img1.png|500]]
+<img src="./pics/img1.png" width=500>
+
 *Image: allow camera*
 
-![[./pics/img2.png|500]]
+<img src="./pics/img2.png" width=500>
+
 *Image: verification passive liveness*
 
-![[./pics/img3.png|500]]
+<img src="./pics/img3.png" width=500>
+
 *Image: success verification and will be redirect to **callback** .*
 
 Sample redirect:
+
 http://localhost:3000?verify_status=true
+
+
+Done.
 

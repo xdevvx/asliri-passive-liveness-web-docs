@@ -89,7 +89,7 @@ Passive Liveness
 http://localhost:3000?verify_status=true&message=success=req_id=xxxxxx&photo_passive_url=https%3A%2F%2Fdev-asliri.id%3A9000%2Fpassive-liveness-web-dev%2F2cded782-xx.jpg
 
 Smile Liveness:
-http://localhost:3000?verify_status=false&message=success=req_id=xxxxxx&photo_neutral_url=https%3A%2F%2Fdev-asliri.id%3A9000%2Fsmile-liveness-web-dev%2F2cded782-xx.jpg&&photo_smile_url=https%3A%2F%2Fdev-asliri.id%3A9000%2Fsmile-liveness-web-dev%2F2cded782-xx.jpg
+http://localhost:3000?verify_status=false&message=success=req_id=xxxxxx&photo_neutral_url=https%3A%2F%2Fdev-asliri.id%3A9000%2Fsmile-liveness-web-dev%2F2cded782-xx.jpg&photo_smile_url=https%3A%2F%2Fdev-asliri.id%3A9000%2Fsmile-liveness-web-dev%2F2cded782-xx.jpg
 
 
 
